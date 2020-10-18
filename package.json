@@ -1,0 +1,19 @@
+{
+  "name": "al-fatih-assistant",
+  "version": "1.0.0",
+  "description": "mumpung masih muda, jadio orang yang produktif fik, jangan mengurusi permasalahan hati, sibukkan waktumu dengan hal-hal yang bermanfaat. (15/10/2020)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickycxc/al-fatih-assistant.git"
+  },
+  "author": "Zulfikar Satria Allam Syahputra / 17688",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vickycxc/al-fatih-assistant/issues"
+  },
+  "homepage": "https://github.com/vickycxc/al-fatih-assistant#readme"
+}
