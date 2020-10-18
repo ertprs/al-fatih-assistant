@@ -18,4 +18,7 @@ client.on('message', message => {
     if (message.body === '!pingg') {
         client.sendMessage(message.from, message.from);
     }
+    if (message.body === 'Siapakah andi?') {
+        client.sendMessage(message.from, 'ketua mpk cuy😹');
+    }
 });
